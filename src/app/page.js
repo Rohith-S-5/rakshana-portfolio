@@ -176,7 +176,7 @@ export default function RohithPortfolio() {
         "https://drive.google.com/file/d/1jr27TgFOQhHBm5aPoVFhvafAmmYLeMlz/view?usp=drive_link",
       profileImageUrl: "/rakshana.jpg",
       links: {
-        linkedin: "https://www.linkedin.com/in/srohith07",
+        linkedin: "www.linkedin.com/in/rakshana-selvam",
         github: "#",
       },
 
